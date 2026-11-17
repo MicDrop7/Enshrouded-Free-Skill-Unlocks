@@ -92,4 +92,4 @@ skills in game while the mod is still installed, then delete the `free-skill-unl
 
 ---
 
-More Enshrouded mods by MicDrop7: [Enshrouded-Game-Mods](https://github.com/MicDrop7/Enshrouded-Game-Mods).
+More Enshrouded mods by MicDrop7: [Smart Workshop](https://github.com/MicDrop7/Enshrouded-Smart-Workshop) · [Survivor Crafting Anywhere](https://github.com/MicDrop7/Enshrouded-Survivor-Crafting-Anywhere) · [Quick Stack Area](https://github.com/MicDrop7/Enshrouded-Quick-Stack-Area).
